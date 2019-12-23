@@ -1,2 +1,0 @@
-.php filter=lfs diff=lfs merge=lfs -text
-well-known.php filter=lfs diff=lfs merge=lfs -text
