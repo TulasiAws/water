@@ -1,3 +1,3 @@
 FROM nginx
 
-COPY web /usr/share/nginx/html
+COPY waterboat/waterboat /usr/share/nginx/html
